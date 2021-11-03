@@ -5,6 +5,7 @@
 
     <StackLayout>
         <Label Text="Hola Mundo Repaso" FontSize="Title" ></Label>
+        <Label Text="Segundo Label"></Label>
     </StackLayout>
 
 </ContentPage>
